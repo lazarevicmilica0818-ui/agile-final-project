@@ -13,3 +13,6 @@ What went well:
 
 What to improve:
 - Better estimation of tasks
+## Project Summary
+
+This project demonstrates Agile methodology using GitHub Projects, including backlog management, sprint planning, and Kanban workflow.
